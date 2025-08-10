@@ -137,7 +137,7 @@ export default function NFCCard() {
                 className="h-12 bg-gradient-to-r from-zinc-800/60 to-zinc-700/60 border-zinc-600/30 hover:from-blue-900/40 hover:to-blue-800/40 hover:border-blue-600/50 text-white hover:text-white transition-all duration-300 group"
                 asChild
               >
-                <a href="https://imraffydev.com" className="flex items-center justify-center gap-2">
+                <a href="https://www.facebook.com/raffy.uanan.10/" className="flex items-center justify-center gap-2">
                   <Facebook className="w-4 h-4 group-hover:text-blue-400 transition-colors" />
                   <span className="text-sm font-medium">Facebook</span>
                 </a>
